@@ -12,12 +12,6 @@
   </p>
 </p>
 
-<p align="center">
-  <a href="https://github.com/kmaximo">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmaximo&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/kmaximo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kmaximo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
