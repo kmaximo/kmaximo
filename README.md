@@ -1,5 +1,5 @@
 
-![](assets/images/header.png)
+![](assets/header.png)
 
 <p>
   <h1 align="center">
