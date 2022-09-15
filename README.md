@@ -1,5 +1,7 @@
 
-![](assets/header.png)
+<p align="center">
+    <img alt="GitHub Stats" src="assets/kheader.png" />
+</p>
 
 <p>
   <h1 align="center">
