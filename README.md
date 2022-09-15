@@ -1,8 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/kmaximo"
-    <img alt="GitHub Stats" src="assets/kheader.png" />
-  </a>  
+  <img alt="GitHub Stats" src="assets/kheader.png" />
 </p>
 
 <p>
